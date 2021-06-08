@@ -1,0 +1,4 @@
+#!/bin/bash
+# our first script
+
+echo "our first script"
