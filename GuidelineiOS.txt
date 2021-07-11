@@ -1,0 +1,12 @@
+Guideline for iOS.
+1  The application can be updated only through the official store;
+2 When using the application there are requests for permission to access the camera, gallery, microphone, geolocation
+3 The application cannot use the message without the user's consent;
+4 The application cannot distribute personal information of users.
+5 The application should strive to store a minimum amount of data in iCloud. Everything stored in iCloud must be created by the user. Information that can be downloaded or restored should not get into iCloud;
+6 The application must be honest. Its description must be true, and all functionality must work as described;
+7 Banner ads should be hidden if ads are not available;
+8 Use autocomplete, minimize typing;
+9 The application must not have access to files outside the application without the user's permission;
+10 Content readability.
+
